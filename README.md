@@ -23,9 +23,7 @@ Digital Image Processing matlab code
 
 # spatial_filter
 
-![](/test_image/Sfilter1.jpg)
 ![](/test_image/Sfilter2.jpg)
-![](/test_image/Sfilter3.jpg)
 ![](/test_image/Sfilter4.jpg)
 
 # SR(Super resolution)
