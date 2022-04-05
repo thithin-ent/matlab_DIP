@@ -9,22 +9,18 @@ Digital Image Processing matlab code
 5. SR(Super resolution) : using NN, bilinear, bicubic and EDSR
 
 # dft_filter
-
-![](/test_image/mag_phase.jpg)
+<p align="center"><img src="/test_image/mag_phase.jpg"></p>
 
 # his_eq
-
-![](/test_image/his_eq1.jpg)
-![](/test_image/his_eq2.jpg)
+<p align="center"><img src="/test_image/his_eq1.jpg"></p>
+<p align="center"><img src="/test_image/his_eq2.jpg"></p>
 
 # rgb2hsv
-
-![](/test_image/HSI.jpg)
+<p align="center"><img src="/test_image/HSI.jpg"></p>
 
 # spatial_filter
 <p align="center"><img src="/test_image/Sfilter2.jpg"></p>
 <p align="center"><img src="/test_image/Sfilter4.jpg"></p>
 
 # SR(Super resolution)
-
-![](/test_image/SR.jpg)
+<p align="center"><img src="/test_image/SR.jpg"></p>
