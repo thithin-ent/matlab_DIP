@@ -35,6 +35,7 @@ figure(4)
 subplot(1,5,i); imshow(I_depp); title("EDSR")
 end
 
+
 fprintf("평균 ---------------------------------------------\n");
 fprintf("NN      : my funtion : %f, built in: %f \n",sum(InnP)/5,sum(Inn2P)/5);
 fprintf("bilinear: my funtion : %f, built in: %f \n",sum(IbilP)/5,sum(Ibil2P)/5);

@@ -32,3 +32,13 @@ myJ = myHisteq(I,256);
 figure(9);imshow(myJ);
 figure(10);
 imhist(myJ);
+
+figure; 
+subplot(1,3,1); imshow(I); title('dark image')
+subplot(1,3,2); imshow(J); title('histogram equalized dark image')
+subplot(1,3,3); imshow(myJ); title('my histogram equalized dark image')
+
+figure; 
+subplot(1,3,1); imhist(I); title('dark image histogram')
+subplot(1,3,2); imhist(J); title('built in function histogram')
+subplot(1,3,3); imhist(myJ); title('my function histogram')
